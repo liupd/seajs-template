@@ -1,0 +1,4 @@
+seajs-template
+==============
+
+seajs template
