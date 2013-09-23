@@ -1,0 +1,17 @@
+{
+    "spm" : {
+        "output" : {
+            "relative" : [
+                "index/index.js"
+            ],
+            "all" : [
+                "base/handlebars.js"
+            ]
+        },
+        "alias" : {
+            "$" : "jquery/jquery/1.9.1/jquery",
+            "_" : "gallery/underscore/1.4.4/underscore",
+            "handlebars" : "gallery/handlebars/1.0.2/runtime"
+        }
+    }
+}
